@@ -5,4 +5,4 @@ Currently learning **Python and Linux** <br><br>
 Interested in **techonolgy as a whole**
 ###  Fun Facts
 -  Don't read, I'm not "funny"
--  Tryna become Mr. Robot...
+-  I'm tryna become Mr. Robot... --------- yurr
