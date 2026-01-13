@@ -1,6 +1,4 @@
-# Hi there 👋, I'm 
-
-###  About Me
+###  About Me (3t73rn17y)
 -  I'm a **cyber security** enthusiast, mostly within Ethical hacking.
 -  Currently learning **Python and Linux**
 -  Interested in **techonolgy as a whole** 
