@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm 
 
-<!--
-**1-Zhokken-1/1-Zhokken-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  About Me
+-  I'm a **cyber security** enthusiast, mostly within Ethical hacking.
+-  AND yes I do go to School
+-  Currently learning **Python and Linux**
+-  Working on **<current project or goal>**
+-  Interested in **techonolgy as a whole**
 
-Here are some ideas to get you started:
+**Languages**
+- <LEARNING python>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Fun Facts
+- ⚡ Don't read, I'm not "funny"
+- 🎯 Tryna become Mr. Robot...
+---
