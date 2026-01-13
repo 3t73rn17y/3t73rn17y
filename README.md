@@ -1,5 +1,5 @@
-# Hi there 👋
-###  I'm 3t73rn17y, about me:
+# Hi there 👋 ###  I'm 3t73rn17y
+###  About me:
 I'm a **cyber security** enthusiast, mostly within Ethical hacking. <br><br>
 Currently learning **Python and Linux** <br><br>
 Interested in **techonolgy as a whole**
